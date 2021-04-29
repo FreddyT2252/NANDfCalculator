@@ -72,7 +72,7 @@ namespace WinFormsApp1
         {
             return isOperation;
         }
-        // memasukkan angka ke dalam memori
+        // memasukkan angka ke dalam memori dengan queue
         public void SetMemory(string nums)
         {
             memory.Enqueue(double.Parse(nums));
