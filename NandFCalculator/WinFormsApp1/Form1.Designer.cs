@@ -74,6 +74,7 @@ namespace WinFormsApp1
             this.button0.TabIndex = 1;
             this.button0.Text = "0";
             this.button0.UseVisualStyleBackColor = false;
+            this.button0.Click += new System.EventHandler(this.Number_Clicked);
             // 
             // button_dot
             // 
@@ -86,6 +87,7 @@ namespace WinFormsApp1
             this.button_dot.TabIndex = 3;
             this.button_dot.Text = "(-)";
             this.button_dot.UseVisualStyleBackColor = false;
+            this.button_dot.Click += new System.EventHandler(this.Number_Clicked);
             // 
             // button1
             // 
@@ -98,6 +100,7 @@ namespace WinFormsApp1
             this.button1.TabIndex = 4;
             this.button1.Text = "1";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.Number_Clicked);
             // 
             // button2
             // 
@@ -110,6 +113,7 @@ namespace WinFormsApp1
             this.button2.TabIndex = 5;
             this.button2.Text = "2";
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.Number_Clicked);
             // 
             // button3
             // 
@@ -122,6 +126,7 @@ namespace WinFormsApp1
             this.button3.TabIndex = 6;
             this.button3.Text = "3";
             this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.Number_Clicked);
             // 
             // button4
             // 
@@ -134,6 +139,7 @@ namespace WinFormsApp1
             this.button4.TabIndex = 7;
             this.button4.Text = "4";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.Number_Clicked);
             // 
             // button6
             // 
@@ -146,6 +152,7 @@ namespace WinFormsApp1
             this.button6.TabIndex = 9;
             this.button6.Text = "6";
             this.button6.UseVisualStyleBackColor = false;
+            this.button6.Click += new System.EventHandler(this.Number_Clicked);
             // 
             // button7
             // 
@@ -158,6 +165,7 @@ namespace WinFormsApp1
             this.button7.TabIndex = 10;
             this.button7.Text = "7";
             this.button7.UseVisualStyleBackColor = false;
+            this.button7.Click += new System.EventHandler(this.Number_Clicked);
             // 
             // button9
             // 
@@ -170,6 +178,7 @@ namespace WinFormsApp1
             this.button9.TabIndex = 12;
             this.button9.Text = "9";
             this.button9.UseVisualStyleBackColor = false;
+            this.button9.Click += new System.EventHandler(this.Number_Clicked);
             // 
             // buttonAns
             // 
@@ -182,6 +191,7 @@ namespace WinFormsApp1
             this.buttonAns.TabIndex = 13;
             this.buttonAns.Text = "Ans";
             this.buttonAns.UseVisualStyleBackColor = false;
+            this.buttonAns.Click += new System.EventHandler(this.buttonAns_Click);
             // 
             // button14
             // 
@@ -194,6 +204,7 @@ namespace WinFormsApp1
             this.button14.TabIndex = 14;
             this.button14.Text = "=";
             this.button14.UseVisualStyleBackColor = false;
+            this.button14.Click += new System.EventHandler(this.asignButton);
             // 
             // button_plus
             // 
@@ -206,6 +217,7 @@ namespace WinFormsApp1
             this.button_plus.TabIndex = 15;
             this.button_plus.Text = "+";
             this.button_plus.UseVisualStyleBackColor = false;
+            this.button_plus.Click += new System.EventHandler(this.Operator_Clicked);
             // 
             // button_substract
             // 
@@ -218,6 +230,7 @@ namespace WinFormsApp1
             this.button_substract.TabIndex = 16;
             this.button_substract.Text = "-";
             this.button_substract.UseVisualStyleBackColor = false;
+            this.button_substract.Click += new System.EventHandler(this.Operator_Clicked);
             // 
             // button_multiplication
             // 
@@ -230,6 +243,7 @@ namespace WinFormsApp1
             this.button_multiplication.TabIndex = 17;
             this.button_multiplication.Text = "*";
             this.button_multiplication.UseVisualStyleBackColor = false;
+            this.button_multiplication.Click += new System.EventHandler(this.Operator_Clicked);
             // 
             // button_divisor
             // 
@@ -242,6 +256,7 @@ namespace WinFormsApp1
             this.button_divisor.TabIndex = 18;
             this.button_divisor.Text = "/";
             this.button_divisor.UseVisualStyleBackColor = false;
+            this.button_divisor.Click += new System.EventHandler(this.Operator_Clicked);
             // 
             // buttonAC
             // 
@@ -254,6 +269,7 @@ namespace WinFormsApp1
             this.buttonAC.TabIndex = 20;
             this.buttonAC.Text = "AC";
             this.buttonAC.UseVisualStyleBackColor = false;
+            this.buttonAC.Click += new System.EventHandler(this.AC_button);
             // 
             // buttonMR
             // 
@@ -266,6 +282,7 @@ namespace WinFormsApp1
             this.buttonMR.TabIndex = 21;
             this.buttonMR.Text = "MR";
             this.buttonMR.UseVisualStyleBackColor = false;
+            this.buttonMR.Click += new System.EventHandler(this.MR_Button);
             // 
             // buttonMC
             // 
@@ -278,6 +295,7 @@ namespace WinFormsApp1
             this.buttonMC.TabIndex = 22;
             this.buttonMC.Text = "MC";
             this.buttonMC.UseVisualStyleBackColor = false;
+            this.buttonMC.Click += new System.EventHandler(this.MC_Button);
             // 
             // button8
             // 
@@ -290,6 +308,7 @@ namespace WinFormsApp1
             this.button8.TabIndex = 11;
             this.button8.Text = "8";
             this.button8.UseVisualStyleBackColor = false;
+            this.button8.Click += new System.EventHandler(this.Number_Clicked);
             // 
             // button5
             // 
@@ -302,6 +321,7 @@ namespace WinFormsApp1
             this.button5.TabIndex = 23;
             this.button5.Text = "5";
             this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.Number_Clicked);
             // 
             // button00
             // 

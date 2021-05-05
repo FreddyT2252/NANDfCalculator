@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mLzMuZxodDhNQp5fdr+lShhQeE3xMix5TVVJm50spsEWQV5/bqzVxQSjdyuJLeOTy2g4J+CZv1V5PFi6YLVrrw==",
+  "dgSpecHash": "wyGxQHUKRlLT20IBfGe19fbthod9CkV7dR+LJIcBMYEJUyWQbPdAx5c9Z901vL9hLnqTQxZWjyMA2iMUHFvS2Q==",
   "success": true,
-  "projectFilePath": "C:\\nandfcalcu\\NandFCalculator\\WinFormsApp1\\WinFormsApp1.csproj",
+  "projectFilePath": "C:\\nandf\\NandFCalculator\\WinFormsApp1\\WinFormsApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

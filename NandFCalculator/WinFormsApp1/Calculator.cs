@@ -81,6 +81,11 @@ namespace WinFormsApp1
         {
             return memory.Count == 0;
         }
+        // Mengeluarkan angka dari memory
+        public double GetMemory()
+        {
+            return memory.Dequeue();
+        }
         public double calculate()
         {
             Expr temp = new TerminalExpr(0);

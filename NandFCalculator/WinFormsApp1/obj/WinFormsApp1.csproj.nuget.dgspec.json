@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\nandfcalcu\\NandFCalculator\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "C:\\nandf\\NandFCalculator\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "C:\\nandfcalcu\\NandFCalculator\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "C:\\nandf\\NandFCalculator\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\nandfcalcu\\NandFCalculator\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "C:\\nandf\\NandFCalculator\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "C:\\nandfcalcu\\NandFCalculator\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectPath": "C:\\nandf\\NandFCalculator\\WinFormsApp1\\WinFormsApp1.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\nandfcalcu\\NandFCalculator\\WinFormsApp1\\obj\\",
+        "outputPath": "C:\\nandf\\NandFCalculator\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

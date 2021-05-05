@@ -1,0 +1,15 @@
+C:\nandf\NandFCalculator\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\nandf\NandFCalculator\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\nandf\NandFCalculator\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\nandf\NandFCalculator\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\nandf\NandFCalculator\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\nandf\NandFCalculator\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\nandf\NandFCalculator\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csprojAssemblyReference.cache
+C:\nandf\NandFCalculator\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\nandf\NandFCalculator\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\nandf\NandFCalculator\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\nandf\NandFCalculator\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\nandf\NandFCalculator\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\nandf\NandFCalculator\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\nandf\NandFCalculator\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\nandf\NandFCalculator\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
