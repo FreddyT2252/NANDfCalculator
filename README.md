@@ -5,3 +5,7 @@ Aplikasi N&FCalculator adalah sebuah aplikasi layaknya kalkulator pada biasanya 
 # Penyusun
 Siti Malatania 20/456380/TK/50510 <br />
 Freddy Tanusina 20/456841/TK/50665
+
+# Class diagram
+![nfcalculator-class diagram](https://user-images.githubusercontent.com/74101266/121115158-035f3c80-c83f-11eb-9fe2-76259f0ca28a.png)
+
